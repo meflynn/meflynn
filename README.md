@@ -3,4 +3,4 @@ statistics, and data science. You can find more info about me at my website belo
 
 - [www.m-flynn.com](https://www.m-flynn.com)
 
-<a rel="me" href="https://fosstodon.org/@michaelflynn"></a> 
+<a rel="me" href="https://fosstodon.org/@michaelflynn"> </a> 
